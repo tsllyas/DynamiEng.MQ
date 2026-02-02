@@ -1,1 +1,0 @@
-Usage: Double-click sim_prj.vcxproj to run in VS2026. Other editors may require manual setup.
