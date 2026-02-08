@@ -7,14 +7,21 @@ Designed as a reusable dynamics library, not a high-level simulator.
 
 Features
 
-• High-fidelity 6-DoF rigid-body dynamics
-• Physically consistent thrust and torque modeling
-• Realistic IMU / magnetometer simulation (white noise + bias drift)
-• Estimator-ready sensor pipeline (EKF / UKF compatible)
-• Deterministic and real-time capable
-• Dependency-light modern C++
-• Easy integration with custom controllers and toolchains
-• Modular and extensible architecture
+High-fidelity 6-DoF rigid-body dynamics
+
+Physically consistent thrust and torque modeling
+
+Realistic IMU / magnetometer simulation (white noise + bias drift)
+
+Estimator-ready sensor pipeline (EKF / UKF compatible)
+
+Deterministic and real-time capable
+
+Dependency-light modern C++
+
+Easy integration with custom controllers and toolchains
+
+Modular and extensible architecture
 
 Built for engineers who care about correctness, stability, and predictable system behavior.
 
