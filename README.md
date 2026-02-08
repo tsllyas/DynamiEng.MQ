@@ -7,23 +7,23 @@ Designed as a reusable dynamics library, not a high-level simulator.
 
 Features
 
-High-fidelity 6-DoF rigid-body dynamics
+- High-fidelity 6-DoF rigid-body dynamics
 
-Physically consistent thrust and torque modeling
+- Physically consistent thrust and torque modeling
 
-Realistic IMU / magnetometer simulation (white noise + bias drift)
+- Realistic IMU / magnetometer simulation (white noise + bias drift)
 
-Estimator-ready sensor pipeline (EKF / UKF compatible)
+- Estimator-ready sensor pipeline (EKF / UKF compatible)
 
-Deterministic and real-time capable
+- Deterministic and real-time capable
 
-Dependency-light modern C++
+- Dependency-light modern C++
 
-Easy integration with custom controllers and toolchains
+- Easy integration with custom controllers and toolchains
 
-Modular and extensible architecture
+- Modular and extensible architecture
 
-Built for engineers who care about correctness, stability, and predictable system behavior.
+- Built for engineers who care about correctness, stability, and predictable system behavior.
 
 Contact: dynamieng.mq@outlook.com (Email / Microsoft Teams)
 
